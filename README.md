@@ -11,13 +11,13 @@
 <h3 align="center">Sample Project to use django plus minio file storage app</h3>
 </div>
 <p align="center">
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/29748439/177030588-a1916efd-384b-439a-9b30-24dd24dd48b6.png" alt="django" width="60" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://minio.io/" target="_blank"> <img src="https://absam.io/blog/wp-content/uploads/2020/07/minio-logo.png" alt="git" width="100" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="60" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.nginx.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" alt="nginx" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://minio.io/" target="_blank"> <img src="https://dl.min.io/logo/Minio_logo_light/Minio_logo_light.svg" alt="git" width="100" height="40"/> </a>
 </p>
 
 # Guideline
