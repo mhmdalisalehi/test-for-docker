@@ -7,9 +7,8 @@
 >>>>>>> 4cb2d5b (Initial commit)
 =======
 <div align="center">
-<img loading="lazy" style="width:700px" src="./docs/hamravesh-banner.png">
-<h1 align="center">Django3.2 Hamravesh Minio Template</h1>
-<h3 align="center">Sample Project to use hamravesh service provider for django plus minio file storage app</h3>
+<h1 align="center">Dockerized-Django-PostgreSQL-Minio</h1>
+<h3 align="center">Sample Project to use django plus minio file storage app</h3>
 </div>
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -18,44 +17,22 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://hamravesh.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/24360374?s=200&v=4" alt="git" width="40" height="40"/> </a>
 <a href="https://minio.io/" target="_blank"> <img src="https://absam.io/blog/wp-content/uploads/2020/07/minio-logo.png" alt="git" width="100" height="40"/> </a>
 </p>
 
 # Guideline
 - [Guideline](#guideline)
 - [Goal](#goal)
-- [Video Instructions](#video-instructions)
 - [Development usage](#development-usage)
   - [Clone the repo](#clone-the-repo)
   - [Enviroment Varibales](#enviroment-varibales)
   - [Build everything](#build-everything)
   - [Note](#note)
-  - [Check it out in a browser](#check-it-out-in-a-browser)
 - [Testing Usage](#testing-usage)
   - [running all tests](#running-all-tests)
-  - [testing minio storage](#testing-minio-storage)
-- [Hamravesh deployment](#hamravesh-deployment)
-  - [0- Create an account](#0--create-an-account)
-  - [2- Setup database](#2--setup-database)
-  - [3- setup minio instance](#3--setup-minio-instance)
-    - [1- choose the minio instance](#1--choose-the-minio-instance)
-    - [2- setup address and name](#2--setup-address-and-name)
-    - [3- choose the right plan and resource](#3--choose-the-right-plan-and-resource)
-    - [4- copy the credentials](#4--copy-the-credentials)
-  - [4- Setup django app](#4--setup-django-app)
-- [CICD Deployment](#cicd-deployment)
-  - [Github CICD](#github-cicd)
-  - [Gitlab/Hamgit CICD](#gitlabhamgit-cicd)
-- [Sentry Logger](#sentry-logger)
-- [License](#license)
-- [Bugs](#bugs)
 
 # Goal
 This project main goal is to provide a simple way to deploy a django project into hamravesh service provider.
-
-# Video Instructions
-<div align="center" ><img loading="lazy" style="width:700px" src="./docs/video.png"></div>
 
 # Development usage
 You'll need to have [Docker installed](https://docs.docker.com/get-docker/).
@@ -72,7 +49,7 @@ these commands for PowerShell if you want.
 ## Clone the repo
 Clone this repo anywhere you want and move into the directory:
 ```bash
-git clone https://github.com/AliBigdeli/Django-Hamravesh-Docker-Minio-Template.git
+git clone https://github.com/MhmdRdbri/Dockerized-Django-PostgreSQL-Minio.git
 ```
 
 ## Enviroment Varibales
@@ -162,12 +139,6 @@ MINIO_STORAGE_MEDIA_URL = config('MINIO_STORAGE_MEDIA_URL',f'{MINIO_EXTERNAL_STO
 
 ```
 
-## Check it out in a browser
-
-Visit <http://localhost:8000> in your favorite browser.
-
-<div align="center" ><img loading="lazy" style="width:700px" src="./docs/django-main-page.png"></div>
-
 # Testing Usage
 ## running all tests
 ```bash
@@ -177,6 +148,7 @@ or
 ```bash
 docker compose exec backend sh -c sh -c " black -l 79 && flake8 && python manage.py test" 
 ```
+<<<<<<< HEAD
 
 ## testing minio storage
 in order to test the storage workflow all you have to do is to open the root address of the porject, then try to upload a file and then check to see how it works.
@@ -267,3 +239,5 @@ MIT.
 # Bugs
 Feel free to let me know if something needs to be fixed. or even any features seems to be needed in this repo.
 >>>>>>> 5e15153 (created base project and configs)
+=======
+>>>>>>> 04a7959 (Update README.md)
