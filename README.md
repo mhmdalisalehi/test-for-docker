@@ -17,7 +17,7 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://minio.io/" target="_blank"> <img src="https://dl.min.io/logo/Minio_logo_light/Minio_logo_light.svg" alt="git" width="100" height="40"/> </a>
+<a href="https://minio.io/" target="_blank"> <img src="https://brandfetch.com/minio.io?view=library&library=default&collection=logos&asset=idAq3Bu8sr&utm_source=https%253A%252F%252Fbrandfetch.com%252Fminio.io&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="git" width="100" height="40"/> </a>
 </p>
 
 # Guideline
