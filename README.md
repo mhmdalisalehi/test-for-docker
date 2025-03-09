@@ -17,7 +17,7 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://minio.io/" target="_blank"> <img src="" alt="minio" width="100" height="40"/> </a>
+<a href="https://minio.io/" target="_blank"> <img src="https://absam.io/blog/wp-content/uploads/2020/07/minio-logo.png" alt="minio" width="100" height="40"/> </a>
 </p>
 
 # Guideline
